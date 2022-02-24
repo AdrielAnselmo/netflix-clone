@@ -21,6 +21,13 @@
 
 Projeto baseado no video do **Bonieky Lacerda** oferecida na plataforma do [Youtube](hhttps://www.youtube.com/watch?v=tBweoUiMsDg&ab_channel=BoniekyLacerda/), </br>
 
+Ver o projeto em funcionamento basta clicar no seguinte botão:
+
+<a href="https://www.figma.com/file/eRJKfZL8VVI1juyIBwol65/netflix?node-id=98%3A137">
+  <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Acessar%20Site%20-Netlify-blue?style=for-the-badge&logo=Netlify">
+</a>
+
+
 ---
 
 ## ⚙️ Funcionalidades
@@ -43,6 +50,7 @@ Projeto baseado no video do **Bonieky Lacerda** oferecida na plataforma do [Yout
   - [ ] Selecionar o filme para assistir
   - [ ] Favoritar o filme
 
+
 - [ ] Tela player:
   - [ ] Ver Player
   - [ ] Comentarios relacionados ao filme
@@ -53,12 +61,22 @@ Projeto baseado no video do **Bonieky Lacerda** oferecida na plataforma do [Yout
 
 
 ---
+## 🖍  Wireframe
+
+O layout da aplicação está disponível no Figma:
+
+<a href="https://www.figma.com/file/eRJKfZL8VVI1juyIBwol65/netflix?node-id=98%3A137">
+  <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Acessar%20Wireframe%20-Figma-%23F24E1E?style=for-the-badge&logo=figma">
+</a>
+
+---
+
 ## 🎨 Layout
 
 O layout da aplicação está disponível no Figma:
 
-<a href="https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=136%3A546">
-  <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
+<a href="https://adrielanselmo-netflix-clone.netlify.app/">
+  <img alt="netlify" src="https://img.shields.io/badge/Acessar%20layout%20-Figma-%23F24E1E?style=for-the-badge&logo=figma">
 </a>
 
 
