@@ -23,8 +23,8 @@ Projeto baseado no video do **Bonieky Lacerda** oferecida na plataforma do [Yout
 
 Ver o projeto em funcionamento basta clicar no seguinte botão:
 
-<a href="https://www.figma.com/file/eRJKfZL8VVI1juyIBwol65/netflix?node-id=98%3A137">
-  <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Acessar%20Site%20-Netlify-blue?style=for-the-badge&logo=Netlify">
+<a href="https://adrielanselmo-netflix-clone.netlify.app/">
+  <img alt="Netlify" src="https://img.shields.io/badge/Acessar%20Site%20-Netlify-blue?style=for-the-badge&logo=Netlify">
 </a>
 
 
